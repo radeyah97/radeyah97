@@ -1,4 +1,5 @@
 What is Markdown?
+
 Markdown is the negative spread that comes between the price which the broker charges for the security from its clients and the highest price on which the same security is traded between the brokers. In other words, it is the difference or the spread which arises between the prices which the dealer charges from its retail customer for the particular security with prices on the inside market if the spread is negative. However, if the spread is positive which arises between the prices which the dealer charges from its retail customer for the particular security with prices on the inside market is known as the markup.
 
 In the common scenarios, markup are more as compared with the markdowns because the securities are bought in bulk by the market makers. As the liquidity is more in the inside markets, they can obtain more of the favorable prices generally when compared with the prices which the retail customers get. It is not required to disclose these in the principal transactions.
