@@ -1,0 +1,23 @@
+What is Markdown?
+Markdown is the negative spread that comes between the price which the broker charges for the security from its clients and the highest price on which the same security is traded between the brokers. In other words, it is the difference or the spread which arises between the prices which the dealer charges from its retail customer for the particular security with prices on the inside market if the spread is negative. However, if the spread is positive which arises between the prices which the dealer charges from its retail customer for the particular security with prices on the inside market is known as the markup.
+
+In the common scenarios, markup are more as compared with the markdowns because the securities are bought in bulk by the market makers. As the liquidity is more in the inside markets, they can obtain more of the favorable prices generally when compared with the prices which the retail customers get. It is not required to disclose these in the principal transactions.
+
+Examples of Markdown
+Example #1
+There is a broker in the market, having several clients who deal through him. Now the broker wants to increase the sales volume of some set of securities. For that, he decided to sell the security to his client at a price that is lower than the selling price or the highest bid prices among the brokers in the securities market. He sold the shares of A ltd company at the price of $ 35 per share to his clients. He purchased the same stock in the broker market at a high price of $ 50 per share. Discuss the spread which arises due to the price difference between the selling price to the clients of the security and buying price of the same security from the broker market.
+
+Analysis:
+In the present case, a broker wants to increase the sales volume of some set of securities. For that, he decided to sell the security to his client at a price that is lower than the highest bid prices among the brokers in the securities market. And for that, he sold the shares of A ltd company at the price of $ 35 per share to his clients, which he bought from the broker market at the high price of $ 50 per share. There is a negative spread between the selling price to the clients of security and the buying price of the same security from the broker market. Therefore, Markdown on shares which broker sells is – $ 20 ($ 35 – $ 50).
+
+Example #2
+There is a dealer who thought that the demand for the municipal bond issue would be very high in the market, but the actual demand was not as much which the dealer thought to be. So, the broker might be forced to sell at the lower price for the purpose of clearing its inventory. The difference which arises due to the lowering of the prices is known as the Markdown.
+
+Example #3
+There is a broker who deals in securities. He believed that by reducing the prices of a security for the clients, he could generate the profits through the commission, which are enough to make up the loss, which could arise due to the lowering down of prices. So he reduced the prices of the securities, and this reduction is known as Markdown.
+
+Advantages
+The broker can sell securities at the markdown prices when by reducing the prices of a security for the clients, he can generate the profits through the commission, which are enough to make up the loss, which could arise due to lowering down of prices. By this, he can clear his stock along with earning the profits.
+The clients with the Markdown of the prices get the securities at the lesser prices.
+Disadvantages
+The markups and markdowns of more than 5 % are considered to be excessive by the regulators, but this is only the guideline and not rule.
