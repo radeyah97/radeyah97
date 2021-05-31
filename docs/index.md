@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+What is Markdown?
+Markdown is the negative spread that comes between the price which the broker charges for the security from its clients and the highest price on which the same security is traded between the brokers. In other words, it is the difference or the spread which arises between the prices which the dealer charges from its retail customer for the particular security with prices on the inside market if the spread is negative. However, if the spread is positive which arises between the prices which the dealer charges from its retail customer for the particular security with prices on the inside market is known as the markup.
 
-You can use the [editor on GitHub](https://github.com/radeyah97/radeyah97/edit/radeyah97-patch-1/docs/index.md) to maintain and preview the content for your website in Markdown files.
+In the common scenarios, markup are more as compared with the markdowns because the securities are bought in bulk by the market makers. As the liquidity is more in the inside markets, they can obtain more of the favorable prices generally when compared with the prices which the retail customers get. It is not required to disclose these in the principal transactions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Markdown
+ You are free to use this image on your website, templates etc, Please provide us with an attribution link
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Examples of Markdown
+Example #1
+There is a broker in the market, having several clients who deal through him. Now the broker wants to increase the sales volume of some set of securities. For that, he decided to sell the security to his client at a price that is lower than the selling price or the highest bid prices among the brokers in the securities market. He sold the shares of A ltd company at the price of $ 35 per share to his clients. He purchased the same stock in the broker market at a high price of $ 50 per share. Discuss the spread which arises due to the price difference between the selling price to the clients of the security and buying price of the same security from the broker market.
 
-# Header 1
-## Header 2
-### Header 3
+Analysis:
+In the present case, a broker wants to increase the sales volume of some set of securities. For that, he decided to sell the security to his client at a price that is lower than the highest bid prices among the brokers in the securities market. And for that, he sold the shares of A ltd company at the price of $ 35 per share to his clients, which he bought from the broker market at the high price of $ 50 per share. There is a negative spread between the selling price to the clients of security and the buying price of the same security from the broker market. Therefore, Markdown on shares which broker sells is – $ 20 ($ 35 – $ 50).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/radeyah97/radeyah97/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Advantages
+The broker can sell securities at the markdown prices when by reducing the prices of a security for the clients, he can generate the profits through the commission, which are enough to make up the loss, which could arise due to lowering down of prices. By this, he can clear his stock along with earning the profits.
+The clients with the Markdown of the prices get the securities at the lesser prices.
+Disadvantages
+The markups and markdowns of more than 5 % are considered to be excessive by the regulators, but this is only the guideline and not rule.
